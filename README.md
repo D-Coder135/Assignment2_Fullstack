@@ -2,4 +2,4 @@
 
 # Assignment2_Fullstack
 
-An assignment covering some basic concepts of HTML along with some styling concepts of CSS. The assignment was officially given by a faculty of GLA University Mr. Pankaj Kapoor.
+An assignment covering some basic concepts of HTML along with some styling concepts of CSS. The assignment was officially assigned by a faculty of GLA University Mr. Pankaj Kapoor.
